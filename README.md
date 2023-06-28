@@ -50,8 +50,7 @@ Transit-Pro is a professional-grade bus management system built on Laravel 8 and
 
 SCHEMA DIAGRAM
 ==================
-![DATABASE](https://github.com/marzun9620/Transit-Pro/assets/117737824/67cd7229-b2eb-4050-ae89-e59a41dd744f)
-
+![DATABASE](https://github.com/marzun9620/Transit-Pro/assets/117737824/69916630-7148-43c9-943e-7d21ba44ab87)
 
 
 FRONT PAGE

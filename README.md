@@ -1,4 +1,7 @@
-Transit-Pro: Combined Bus Management System
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+
+
+![8](https://github.com/marzun9620/Transit-Pro/assets/117737824/51f06b66-8c64-4068-8d47-a1247195f778)![7](https://github.com/marzun9620/Transit-Pro/assets/117737824/ef898476-b069-4541-b2df-94da5a34e39f)Transit-Pro: Combined Bus Management System
 
 Introduction:
 Transit-Pro is a sophisticated bus management system developed using Laravel 8 and powered by an Oracle 11g XE database. It offers a seamless bus reservation and online ticketing experience for users. The project incorporates advanced features and a robust architecture to meet the requirements of modern bus transportation systems.
@@ -40,43 +43,56 @@ Conclusion:
 Transit-Pro is a professional-grade bus management system built on Laravel 8 and Oracle 11g XE. It provides users with a seamless experience for bus reservation and online ticketing, while offering comprehensive features for agencies, administrators, and staff members. With its scalability, advanced trip management capabilities, and strong security measures, Transit-Pro is an ideal solution for modern bus transportation needs.
 
 
-
-
-
-
-
-
-
-
-
+SCHEMA DIAGRAM
+==================
+![DATABASE](https://github.com/marzun9620/Transit-Pro/assets/117737824/67cd7229-b2eb-4050-ae89-e59a41dd744f)
 
 
 
 FRONT PAGE
 =============
 ![1](https://github.com/marzun9620/Transit-Pro/assets/117737824/7f04309f-480d-41db-ab90-b678b89a01e6)
-![8](https://github.com/marzun9620/Transit-Pro/assets/117737824/9e341dd2-04b8-4b76-867b-4dc4c06a1113)
-![7](https://github.com/marzun9620/Transit-Pro/assets/117737824/63b4ebdf-9715-406f-b11f-7b813427f62e)
-![6](https://github.com/marzun9620/Transit-Pro/assets/117737824/a2e28749-1077-4f97-aa89-d7440d0e91d6)
-![5](https://github.com/marzun9620/Transit-Pro/assets/117737824/770fdc7d-6d51-4801-b796-6831533b0a89)
-![4](https://github.com/marzun9620/Transit-Pro/assets/117737824/80867625-448e-4639-8706-a3769a3d4635)
-![3](https://github.com/marzun9620/Transit-Pro/assets/117737824/8b4e2efd-607c-4df5-99d7-51625eb798e1)
-![2](https://github.com/marzun9620/Transit-Pro/assets/117737824/65acb133-1f2b-4399-991b-7a524bc0f444)
-![10](https://github.com/marzun9620/Transit-Pro/assets/117737824/74911e73-e8a1-48fd-9b4c-a25ba1e8e756)
-![9](https://github.com/marzun9620/Transit-Pro/assets/117737824/334b4a58-e3c6-41c9-8d75-a825051f0e2e)
+
+USER DASHBOARD
+===============
+![2](https://github.com/marzun9620/Transit-Pro/assets/117737824/25558aa1-da6a-4b6a-8ffb-109cc5989d94)
+
+SEARCH FOR A TRIP
+==================
+![3](https://github.com/marzun9620/Transit-Pro/assets/117737824/21a371f9-57f8-4842-a815-ef1bc5cb283e)
+
+SEAT BOOKING
+===============
+![4](https://github.com/marzun9620/Transit-Pro/assets/117737824/72c7d7c1-7a08-4c1d-bc15-83eac81b2d7b)
+
+BILL INVOICE
+==============
+![5](https://github.com/marzun9620/Transit-Pro/assets/117737824/b798d040-b7d6-4804-ab95-c5a8f8c7977b)
+
+BOOKED UPCOMING TRIPS
+======================
+![6](https://github.com/marzun9620/Transit-Pro/assets/117737824/e9d68475-58a6-4be5-88a7-af7e6bd6b839)
+
+ADMIN DASHBOARD
+==================
+![7](https://github.com/marzun9620/Transit-Pro/assets/117737824/36fd86a4-4d98-4144-9602-112e0bb7dfa9)
+
+
+ALL TRIPS SEEING INDIVIDUALLY
+================================
+![8](https://github.com/marzun9620/Transit-Pro/assets/117737824/6177a1d8-4be2-447b-9b66-c063250f8f8c)
+
+ALL USERS AND STAFF DETAILS
+============================
+![9](https://github.com/marzun9620/Transit-Pro/assets/117737824/9024c5e0-187c-4923-9b7c-01ceeee19dd0)
+
+ALLOCATE TRIP
+==============
+![10](https://github.com/marzun9620/Transit-Pro/assets/117737824/27573d82-5969-4d46-a025-4818194a54bd)
 
 
 
 
-
-
-
-
-
-
-
-
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>

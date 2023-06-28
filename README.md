@@ -1,8 +1,8 @@
 <p align="center">
     <a href="https://laravel.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400">
+        <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" height="200">
     </a>
-    <img src="https://github.com/marzun9620/Transit-Pro/assets/117737824/c1e96784-5b72-4f81-b3ee-1bfc9e6b4bd5" width="400">
+    <img src="https://github.com/marzun9620/Transit-Pro/assets/117737824/c1e96784-5b72-4f81-b3ee-1bfc9e6b4bd5" width="400" height="200">
 </p>
 
 

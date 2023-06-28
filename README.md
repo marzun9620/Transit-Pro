@@ -1,7 +1,8 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>   
 
-[png-transparent-oracle-corporation-oracle-database-logo-netsuite-logo-ai](https://github.com/marzun9620/Transit-Pro/assets/117737824/049935ed-a0bb-4152-aba7-7528441cf9f1)
 
+
+![png-transparent-oracle-corporation-oracle-database-logo-netsuite-logo-ai](https://github.com/marzun9620/Transit-Pro/assets/117737824/c1e96784-5b72-4f81-b3ee-1bfc9e6b4bd5)
 
 TRANSIT-PRO : A COMBINED BUS MANAGEMENT SYSTEM
 

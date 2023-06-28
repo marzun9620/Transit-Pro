@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 
-![8](https://github.com/marzun9620/Transit-Pro/assets/117737824/51f06b66-8c64-4068-8d47-a1247195f778)![7](https://github.com/marzun9620/Transit-Pro/assets/117737824/ef898476-b069-4541-b2df-94da5a34e39f)Transit-Pro: Combined Bus Management System
+TRANSIT-PRO : A COMBINED BUS MANAGEMENT SYSTEM
 
 Introduction:
 Transit-Pro is a sophisticated bus management system developed using Laravel 8 and powered by an Oracle 11g XE database. It offers a seamless bus reservation and online ticketing experience for users. The project incorporates advanced features and a robust architecture to meet the requirements of modern bus transportation systems.
